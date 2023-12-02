@@ -20,4 +20,4 @@ Pull Request - Allows reviewing of changes made amongst collaborators prior to m
 
 ----Summary
 
-Github is a collaboration platform in whcih users create repositories or projects that others can contribute to. The repository can be copied for local use by cloning them. Changes made to the clone be documented with commits, and once the user feels comfortable with those changes, they can push those changes to repository or make a pull request to have those changes reviewed before they are merged into the main branch.
+Github is a collaboration platform in whcih users create repositories or projects that others can contribute to. The repository can be copied for local use by cloning them. Changes made to the clone be documented with commits, and once the user feels comfortable with those changes, they can push those changes to repository or make a pull request to have those changes reviewed before they are merged into the main branch. 
